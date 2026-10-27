@@ -24,6 +24,13 @@
             <version>${spring.boot.version}</version>
         </dependency>
 
+        <!-- Thymeleaf for HTML Templates -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            <version>${spring.boot.version}</version>
+        </dependency>
+
         <!-- JUnit 5 for Testing -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
